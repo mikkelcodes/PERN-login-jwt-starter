@@ -7,7 +7,7 @@ This is boilerplate code for a basic login/signup portal, using Postgress, Node,
 - Error and success notifications displayed with react-tostify
 - Frontend is pre-configured with TailwindCSS 2.1.0
 
-### Steps to run on dev
+### Steps
 
 1. Initialise postgres database - CREATE DATABASE [database name];
 2. Create database table Login with SQL code from server/database.sql
