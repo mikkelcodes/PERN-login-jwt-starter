@@ -4,7 +4,7 @@
 This is boilerplate code for a basic login/signup portal, using Postgress, Node, Express and React.
 - Passwords are encrypted with bcrypt
 - Login creates a 1hr json web token
-- Error and success notifications displayed with react-tostify
+- Error and success notifications displayed with react-toastify
 - Frontend is pre-configured with TailwindCSS 2.1.0
 
 ### Steps
